@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="PREMIUM", HBO 2
+http://168.194.171.33:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO Family
+http://168.194.171.33:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO Plus
+http://168.194.171.33:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", HBO XTREME SD
+http://168.194.171.33:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="CENTROA", HBO
+http://190.61.102.67:8000/play/a071
+#EXTINF:-1 group-title="CENTROA", HBO Family
+http://190.61.102.67:8000/play/a074
+#EXTINF:-1 group-title="CENTROA", HBO Family HD
+http://190.61.102.67:8000/play/a018
+#EXTINF:-1 group-title="CENTROA", HBO HD
+http://190.61.102.67:8000/play/a015
+#EXTINF:-1 group-title="CENTROA", HBO Plus
+http://190.61.102.67:8000/play/a073
+#EXTINF:-1 group-title="CENTROA", HBO Plus HD
+http://190.61.102.67:8000/play/a017
+#EXTINF:-1 group-title="CENTROA", HBO XTREME
+http://190.61.102.67:8000/play/a075
+#EXTINF:-1 group-title="CENTROA", HBO XTREME
+http://190.61.102.67:8000/play/a019
+#EXTINF:-1 group-title="CENTROA", HBO2
+http://190.61.102.67:8000/play/a072
+#EXTINF:-1 group-title="CENTROA", HBO2 HD
+http://190.61.102.67:8000/play/a016
