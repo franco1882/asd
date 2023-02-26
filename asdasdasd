@@ -28,3 +28,7 @@ http://190.61.102.67:8000/play/a019
 http://190.61.102.67:8000/play/a072
 #EXTINF:-1 group-title="CENTROA", HBO2 HD
 http://190.61.102.67:8000/play/a016
+#EXTINF:-1 group-title="CENTROA", db1
+https://vsd122.mycdn.me:443/hls/3429779311175.m3u8/sig/PQspBV6n6Hc/expires/1677537929881/srcIp/186.132.244.113/urls/45.136.21.63/clientType/0/srcAg/CHROME_ANDROID/mid/6388076256839/3429779311175_high/index.m3u8
+#EXTINF:-1 group-title="CENTROA", db2
+https://live.telelatinohd.com:8080/MTg2LjEzMi4yNDQuMTEz/191_.m3u8?token=OVfqv1Gm0xvyV2ncijCcfg&expires=1677469452
