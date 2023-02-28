@@ -1,34 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PREMIUM", HBO 2
-http://168.194.171.33:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", HBO Family
-http://168.194.171.33:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", HBO Plus
-http://168.194.171.33:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", HBO XTREME SD
-http://168.194.171.33:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="CENTROA", HBO
-http://190.61.102.67:8000/play/a071
-#EXTINF:-1 group-title="CENTROA", HBO Family
-http://190.61.102.67:8000/play/a074
-#EXTINF:-1 group-title="CENTROA", HBO Family HD
-http://190.61.102.67:8000/play/a018
-#EXTINF:-1 group-title="CENTROA", HBO HD
-http://190.61.102.67:8000/play/a015
-#EXTINF:-1 group-title="CENTROA", HBO Plus
-http://190.61.102.67:8000/play/a073
-#EXTINF:-1 group-title="CENTROA", HBO Plus HD
-http://190.61.102.67:8000/play/a017
-#EXTINF:-1 group-title="CENTROA", HBO XTREME
-http://190.61.102.67:8000/play/a075
-#EXTINF:-1 group-title="CENTROA", HBO XTREME
-http://190.61.102.67:8000/play/a019
-#EXTINF:-1 group-title="CENTROA", HBO2
-http://190.61.102.67:8000/play/a072
-#EXTINF:-1 group-title="CENTROA", HBO2 HD
-http://190.61.102.67:8000/play/a016
-#EXTINF:-1 group-title="CENTROA", db1
-https://vsd122.mycdn.me:443/hls/3429779311175.m3u8/sig/PQspBV6n6Hc/expires/1677537929881/srcIp/186.132.244.113/urls/45.136.21.63/clientType/0/srcAg/CHROME_ANDROID/mid/6388076256839/3429779311175_high/index.m3u8
-#EXTINF:-1 group-title="CENTROA", db2
-https://live.telelatinohd.com:8080/MTg2LjEzMi4yNDQuMTEz/191_.m3u8?token=OVfqv1Gm0xvyV2ncijCcfg&expires=1677469452
+#EXTINF:-1 group-title="PREMIUM", FUJI TV
+https://vsd81.mycdn.me:443/hls/3770490817140.m3u8/sig/bkC8sCZ3BC4/expires/1677690514108/srcIp/186.132.146.214/urls/45.136.21.57/clientType/1/srcAg/UNKNOWN_ANDROID/mid/4976628473460/3770490817140_high/index.m3u8
