@@ -2,3 +2,9 @@
 
 #EXTINF:-1 group-title="PREMIUM", FUJI TV
 https://vsd81.mycdn.me:443/hls/3770490817140.m3u8/sig/bkC8sCZ3BC4/expires/1677690514108/srcIp/186.132.146.214/urls/45.136.21.57/clientType/1/srcAg/UNKNOWN_ANDROID/mid/4976628473460/3770490817140_high/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", DBS
+https://live.telelatinohd.com:8080/MTg2LjEzMi4xNDguODM=/191_.m3u8?token=F1BcL3k6C2JlUuFc4ZW8Ow&expires=1689727745
+
+#EXTINF:-1 group-title="PREMIUM", STAR ACTION
+https://live.telelatinohd.com:8080/MTg2LjEzMi4xNDguODM=/138_.m3u8?token=aU17jAow8OtWleZW91b_Xw&expires=1689727887
